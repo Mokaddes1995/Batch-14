@@ -1,0 +1,47 @@
+[
+    {
+        "item": "Apple",
+        "amount": 300,
+        "category": "Fruits"
+    },
+    {
+        "item": "Orange",
+        "amount": 250,
+        "category": "Fruits"
+    },
+    {
+        "item": "Gift for Friends",
+        "amount": 2000,
+        "category": "Other"
+    },
+    {
+        "item": "Shirt",
+        "amount": 600,
+        "category": "Clothings"
+    },
+    {
+        "item": "Pant",
+        "amount": 500,
+        "category": "Clothings"
+    },
+    {
+        "item": "Pizza",
+        "amount": 300,
+        "category": "Food"
+    },
+    {
+        "item": "Burger",
+        "amount": 300,
+        "category": "Food"
+    },
+    {
+        "item": "Rice",
+        "amount": 200,
+        "category": "Food"
+    },
+    {
+        "item": "Transport",
+        "amount": 400,
+        "category": "Transport"
+    }
+]
